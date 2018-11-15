@@ -83,7 +83,7 @@
  *   DI (PIC-side)  bit = 4
  *
  ** I N C L U D E S ************************************************/
-#include <p18f1220.h>
+#include <xc.h>
 
 /** C O N F I G ****************************************************/
 #pragma config OSC = HS         // High-speed oscillator
